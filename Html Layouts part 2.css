@@ -32,7 +32,7 @@
 
 #chat {
     
-    height: 70%;
+    height: 65%;
     width: 29%;
     float: right;
     
@@ -85,7 +85,7 @@ background-color: black;
 }
 
 .chatpic, .chatpic2{
-    height: 450px;
+    height: 500px;
     float: right;
 }
 
